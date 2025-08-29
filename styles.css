@@ -1,6 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
-
 * {
     margin: 0;
     padding: 0;
@@ -9,7 +6,6 @@
 
 
 body {
-    font-family: 'Faculty Glyphic', sans-serif;
     line-height: 1.6;
 }
 
@@ -48,7 +44,6 @@ body {
 .website-name {
     font-size: 1.5rem;
     font-weight: 700;
-    font-family: rozha one, serif;
 }
 
 /* Main content styles */
@@ -116,7 +111,7 @@ body {
     margin: 0 auto 1rem;
     overflow: hidden;
     border-radius: 50%;
-    border: 3px solid #606C38;
+    border: 3px solid #062a5f;
 }
 
 .profile-picture img {
