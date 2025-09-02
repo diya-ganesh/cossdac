@@ -59,35 +59,10 @@ body {
     margin: 0 auto;
 }
 
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #13578e;
-    min-width: 160px;
-    z-index: 1;
-}
-
-.dropdown-content a {
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover {
-    background-color: #062a5f;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-.dropbtn {
-    cursor: pointer;
+.programs-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1 rem
 }
 
 .about-us-container {
