@@ -49,8 +49,10 @@ body {
 /* Main content styles */
 .container {
     max-width: 1200px;
-    margin: 0 auto;
-    padding: 10rem;
+    margin-top: 10rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
+    margin-bottom: 5 rem;
     
 }
 
